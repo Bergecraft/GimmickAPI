@@ -1,0 +1,4 @@
+#GimmickAPI configuration
+
+pvp:
+  default: vanilla

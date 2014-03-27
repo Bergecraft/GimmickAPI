@@ -1,0 +1,4 @@
+name: GimmickAPI
+author: TeaJizzle
+main: com.gimmicknetwork.gimmickapi.GimmickAPI
+loadbefore: [Gimmicks]
